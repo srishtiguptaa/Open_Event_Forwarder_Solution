@@ -1,5 +1,4 @@
-<p align ="center"> 
-    <img src="https://media.github.ecodesamsung.com/user/22717/files/f0f1b0d1-71e4-4a2e-b728-3db9922afaca" height ="200"/> 
+
     
 # OPEN EVENT FORWARDER SOLUTION
 
