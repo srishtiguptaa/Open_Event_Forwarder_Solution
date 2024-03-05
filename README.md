@@ -108,5 +108,4 @@ Kafka performed better than Pulsar in latency sensitive use cases with lower thr
 
 Contributions to this project are welcome! Please open issues and pull requests.
 
-**CU_23NWOAM08CU_Open_Event_Forwarder_Solution**
-SRIB-PRISM Program
+
