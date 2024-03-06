@@ -1,0 +1,31 @@
+# Docker
+docker==5.0.3
+
+# Kubernetes
+minikube==1.23.2
+kubernetes==23.3.0
+
+# Monitoring
+prometheus_client==0.14.1
+grafana_api==1.0.4 
+
+# Logging & Analytics
+elasticsearch==7.17.0
+splunk-sdk==1.6.11
+kibana-py==1.0.1
+
+# Data visualization
+matplotlib==3.5.1
+pandas==1.4.2
+seaborn==0.11.2
+
+# Benchmarking 
+locust==2.5.1
+jmeter==5.4.1
+
+# Kafka & Pulsar
+pykafka==2.8.0
+pulsar-client==2.9.1
+
+# Testing
+pytest==7.1.2
